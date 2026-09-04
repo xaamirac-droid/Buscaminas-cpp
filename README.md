@@ -32,6 +32,12 @@ g++ BUSCAMINAS-Xaamira.cpp -o buscaminas
 3. Ejecutá:
 ./buscaminas
 
+## Posibles mejoras
+
+- Reemplazar arreglos de tamaño fijo por `std::vector` para manejo dinámico de jugadores y partidas.
+- Encriptar las contraseñas en lugar de almacenarlas en texto plano.
+- Encapsular la lógica del juego en clases en lugar de variables globales.
+  
 ## Contexto
 
 Proyecto desarrollado en 2024 para el curso de Principios de Programación — Tecnólogo en Informática, UTEC.
